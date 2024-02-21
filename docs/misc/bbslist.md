@@ -1,5 +1,5 @@
 ```
-                  WWIV BBS Listing as of 28 February 2019
+                  WWIV BBS Listing as of 21 February 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
  WWIVnet :
  Node: BBS Name
@@ -19,6 +19,7 @@
 @114 : The WWIV Frontier BBS      telnet://thewwiv.frontierbbs.net:2333
 @116 : The Gate BBS                   telnet://thegatebbs.sytes.net:666
 @117 : Paladin's Castle   telnet://paladin-castlebbs.mynetgear.com:2323
+@121 : Brokedown Palace BBS telnet://palace.brokedownpalace.online:2323
 @255 : Alpha Centauri BBS          telnet://acentauribbs.no-ip.org:2002
 @513 : Mystic Rhythms                       telnet://mystic.wwivbbs.org
 @707 : The Blood Stone                      telnet://www.bsbbs.com:2323
